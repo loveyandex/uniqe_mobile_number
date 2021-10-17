@@ -5,7 +5,7 @@
 
     'author': 'AG from the WORLD',
 
-    'summary': "Customer Club System",
+    'summary': "validation for mobile number to be uniqe",
 
     'sequence': 1,
 
