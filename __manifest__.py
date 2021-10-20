@@ -3,7 +3,7 @@
 
     'version': '1.1',
 
-    'author': 'AG from the WORLD',
+    'author': 'AG from',
 
     'summary': "validation for mobile number to be uniqe",
 
