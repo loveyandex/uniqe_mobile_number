@@ -9,7 +9,7 @@ class Partner(models.Model):
 
 
     _sql_constraints = [
-        ('mobile_unique', 'unique (mobile)', 'mobile number already exists!'),
+        ('mobile_uniquess', 'unique (mobile)', 'mobile number already exists!'),
     ]
 
 
