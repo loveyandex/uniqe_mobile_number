@@ -1,5 +1,5 @@
 {
-    'name': 'onlyonenumber',
+    'name': 'onlyonenumber2',
 
     'version': '1.1',
 
